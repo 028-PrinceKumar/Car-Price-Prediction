@@ -77,5 +77,5 @@ Car-Price-Prediction/
 * Build a web application
 * Deploy the model
 
-## 👨‍💻 Author
+
 
